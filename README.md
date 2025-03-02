@@ -1,5 +1,14 @@
-<p align="center">
-![Image](https://github.com/user-attachments/assets/57b57bc9-62e0-41c4-acec-1d37c6acc4d2)
 
 <p align="center">
-![Image](https://github.com/user-attachments/assets/0b2eac00-cdc2-420b-ac0c-ae547ed7e5a8)
+  <img width="850" height="250" src="https://files.catbox.moe/tn0ehs.png">
+</p>
+
+_
+
+<p align="center">
+  <img width="850" height="250" src="https://files.catbox.moe/hnoxp9.png">
+</p>
+
+<p align="center">
+<img width="150" height="200" src="https://files.catbox.moe/01vdyr.png"><img width="300" height="100" src="https://watermelon.crd.co/assets/images/gallery18/6fb688b0.gif?v=6332de85"><img width="200" height="200" src="https://files.catbox.moe/yfwdui.png"> 
+</p>
